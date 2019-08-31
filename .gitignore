@@ -1,0 +1,13 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p12
+*.key
+*.mobileprovision
+.idea/*
+\.idea/
+
+yarn\.lock
+
+package-lock\.json
